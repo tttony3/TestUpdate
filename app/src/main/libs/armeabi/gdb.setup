@@ -1,0 +1,3 @@
+set solib-search-path D:/ASworkspace/TestUpdate/app/src/main/obj/local/armeabi
+source D:/ndk/android-ndk-r10e/prebuilt/common/gdb/common.setup
+directory D:/ndk/android-ndk-r10e/platforms/android-3/arch-arm/usr/include D:/ASworkspace/TestUpdate/app/src/main/jni D:/ndk/android-ndk-r10e/sources/cxx-stl/system
