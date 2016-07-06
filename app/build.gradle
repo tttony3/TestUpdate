@@ -11,12 +11,6 @@ android {
         versionCode 1
         versionName "1.0"
 
-        ndk{
-            moduleName "libpatchtl"
-
-            ldLibs "z"
-            ldLibs "log"
-        }
     }
     sourceSets.main {
         jni.srcDirs = []
